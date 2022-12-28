@@ -1,0 +1,38 @@
+[
+  {
+    "key": "Login",
+    "value": "user_1_",
+    "type": "id"
+  },
+  {
+    "key": "Email",
+    "value": "email",
+    "type": "name"
+  },
+  {
+    "key": "Password",
+    "value": "password",
+    "type": "name"
+  },
+  {
+    "key": "LoginButton",
+    "value": "//*[@class='login-form__button login-form__button--bg-blue']",
+    "type": "xpath"
+  },
+  {
+    "key": "SearchField",
+    "value": "search-form__input-field__search-input",
+    "type": "id"
+  },
+  {
+    "key": "SearchFieldTwo",
+    "value": "//input[@id='search-form__input-field__search-input']",
+    "type": "xpath"
+  },
+  {
+    "key": "SearchButton",
+    "value": "//button[contains(text(),'Ara')]",
+    "type": "xpath"
+  }
+]
+

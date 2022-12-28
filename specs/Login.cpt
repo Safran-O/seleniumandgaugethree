@@ -1,0 +1,10 @@
+Created by onur on 12/27/2022
+
+This is a concept file with following syntax for each concept.
+# Login with <username> user and <password> password
+*Click to element "Login"
+*"5" Saniye Bekle
+*Write <username> values to key "Email"
+*"5" Saniye Bekle
+*Write <password> values to key "Password"
+*Click to element "LoginButton"
